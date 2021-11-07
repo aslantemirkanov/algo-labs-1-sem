@@ -1,3 +1,0 @@
-C:/Users/Aslan/CLionProjects/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
-C:/Users/Aslan/CLionProjects/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Aslan/CLionProjects/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

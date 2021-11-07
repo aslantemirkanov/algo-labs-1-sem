@@ -1,3 +1,0 @@
-C:/Users/Aslan/CLionProjects/Algo_Labs/Lab_4/Algo_Lab_4_F/cmake-build-debug/CMakeFiles/Algo_Lab_4_F.dir
-C:/Users/Aslan/CLionProjects/Algo_Labs/Lab_4/Algo_Lab_4_F/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Aslan/CLionProjects/Algo_Labs/Lab_4/Algo_Lab_4_F/cmake-build-debug/CMakeFiles/rebuild_cache.dir
