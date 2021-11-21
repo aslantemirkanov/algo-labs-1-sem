@@ -15,9 +15,9 @@
 
 [Лабораторная работа 3. Двоичное дерево, цифровая сортировка и сортировка подсчетом](https://github.com/aslantemirkanov/algo-labs-1-sem/tree/master/Lab_3) <br>
 &#xb7; [A - Пирамида ли?](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/ALgo_Lab_3_A/main.cpp) <br>
-&#xb7; [B - Пирамидальная сортировка](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/ALgo_Lab_3_B/main.cpp) <br>
-&#xb7; [C - Цифровая сортировка](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/ALgo_Lab_3_C/main.cpp) <br>
-&#xb7; [D - Приоритетная очередь](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/ALgo_Lab_3_D/main.cpp) <br>
+&#xb7; [B - Пирамидальная сортировка](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/Algo_Lab_3_B/main.cpp) <br>
+&#xb7; [C - Цифровая сортировка](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/Algo_Lab_3_C/main.cpp) <br>
+&#xb7; [D - Приоритетная очередь](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_3/Algo_Lab_3_D/main.cpp) <br>
 
 [Лабораторная работа 4. Стеки, очереди, списки](https://github.com/aslantemirkanov/algo-labs-1-sem/tree/master/Lab_4) <br>
 &#xb7; [A - Стек](https://github.com/aslantemirkanov/algo-labs-1-sem/blob/master/Lab_4/Algo_Lab_4_A/main.cpp) <br>
