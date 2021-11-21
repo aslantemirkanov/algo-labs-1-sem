@@ -3,17 +3,15 @@
 
 using namespace std;
 
-int max_len = 10000;
-
 int main() {
-    ios_base::sync_with_stdio(false);
+    /*ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     freopen("brackets.in", "r", stdin);
-    freopen("brackets.out", "w", stdout);
+    freopen("brackets.out", "w", stdout);*/
     string brackets;
     while (cin >> brackets) {
         int flag = 1;
-        vector <char> stack(max_len);
+        vector <char> stack(1);
         int right_edge = 0;
         for (int i = 0; i < brackets.length(); i++) {
             if (brackets[i] == '(' || brackets[i] == '[') {
